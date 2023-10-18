@@ -1,0 +1,42 @@
+Hiperparámetros óptimos para el modelo Chamartín: {'alpha': 10, 'gamma': 5, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 700}
+R2 en modelo Chamartín: 0.6440036882546645
+Hiperparámetros óptimos para el modelo Latina: {'alpha': 3, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 1000}
+R2 en modelo Latina: 0.8130462281778791
+Hiperparámetros óptimos para el modelo Arganzuela: {'alpha': 10, 'gamma': 1, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 500}
+R2 en modelo Arganzuela: 0.6250127402001309
+Hiperparámetros óptimos para el modelo Centro: {'alpha': 10, 'gamma': 1, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 1000}
+R2 en modelo Centro: 0.549788986540162
+Hiperparámetros óptimos para el modelo Salamanca: {'alpha': 0, 'gamma': 5, 'learning_rate': 0.01, 'max_depth': 8, 'n_estimators': 700}
+R2 en modelo Salamanca: 0.6524587195836683
+Hiperparámetros óptimos para el modelo Fuencarral - El Pardo: {'alpha': 10, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 500}
+R2 en modelo Fuencarral - El Pardo: 0.6158734240498545
+Hiperparámetros óptimos para el modelo Ciudad Lineal: {'alpha': 3, 'gamma': 5, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 500}
+R2 en modelo Ciudad Lineal: 0.7389653298214605
+Hiperparámetros óptimos para el modelo Moncloa - Aravaca: {'alpha': 5, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 8, 'n_estimators': 500}
+R2 en modelo Moncloa - Aravaca: 0.63810476549281
+Hiperparámetros óptimos para el modelo Chamberí: {'alpha': 10, 'gamma': 5, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 500}
+R2 en modelo Chamberí: 0.6318023943078569
+Hiperparámetros óptimos para el modelo San Blas - Canillejas: {'alpha': 0, 'gamma': 1, 'learning_rate': 0.01, 'max_depth': 8, 'n_estimators': 300}
+R2 en modelo San Blas - Canillejas: 0.31088132712699024
+Hiperparámetros óptimos para el modelo Retiro: {'alpha': 0, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 500}
+R2 en modelo Retiro: 0.6355254634746148
+Hiperparámetros óptimos para el modelo Villaverde: {'alpha': 10, 'gamma': 5, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 700}
+R2 en modelo Villaverde: 0.7163415581467769
+Hiperparámetros óptimos para el modelo Barajas: {'alpha': 0, 'gamma': 1, 'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 300}
+R2 en modelo Barajas: 0.8192629539649504
+Hiperparámetros óptimos para el modelo Hortaleza: {'alpha': 0, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 700}
+R2 en modelo Hortaleza: 0.757601879824918
+Hiperparámetros óptimos para el modelo Puente de Vallecas: {'alpha': 5, 'gamma': 5, 'learning_rate': 0.01, 'max_depth': 8, 'n_estimators': 700}
+R2 en modelo Puente de Vallecas: 0.6400089238499613
+Hiperparámetros óptimos para el modelo Usera: {'alpha': 3, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 500}
+R2 en modelo Usera: 0.735950207313883
+Hiperparámetros óptimos para el modelo Carabanchel: {'alpha': 5, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 8, 'n_estimators': 500}
+R2 en modelo Carabanchel: 0.5701036654695399
+Hiperparámetros óptimos para el modelo Moratalaz: {'alpha': 0, 'gamma': 1, 'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 700}
+R2 en modelo Moratalaz: 0.7857453985483167
+Hiperparámetros óptimos para el modelo Tetuán: {'alpha': 10, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 10, 'n_estimators': 500}
+R2 en modelo Tetuán: 0.6502842716773087
+Hiperparámetros óptimos para el modelo Villa de Vallecas: {'alpha': 10, 'gamma': 1, 'learning_rate': 1, 'max_depth': 8, 'n_estimators': 300}
+R2 en modelo Villa de Vallecas: 0.6013486230753394
+Hiperparámetros óptimos para el modelo Vicálvaro: {'alpha': 10, 'gamma': 5, 'learning_rate': 1, 'max_depth': 10, 'n_estimators': 300}
+R2 en modelo Vicálvaro: 0.7269699006924679
